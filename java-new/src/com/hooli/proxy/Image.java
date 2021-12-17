@@ -1,2 +1,5 @@
-package com.hooli.proxy;public interface Image {
+package com.hooli.proxy;
+
+public interface Image {
+    void showImage();
 }
